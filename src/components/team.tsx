@@ -1,7 +1,7 @@
 export default function Team() {
     return (
       <section className="space-y-2">
-        <h1 className="text-xs tertiary-text">Team</h1>
+        <h1 className="text-xs tertiary-text font-mono secondary-text">Team</h1>
         <p className="text-md primary-text">
           Chris is a product designer at{" "}
           <a href="https://www.harvey.ai/" target="_blank" className="underline hover:text-muted transition-colors">

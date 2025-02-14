@@ -6,7 +6,7 @@ import Footer from "@/components/footer"
 
 export default function Home() {
   return (
-    <main className="min-h-screen max-w-3xl mx-auto px-4 py-8 space-y-16">
+    <main className="min-h-screen max-w-3xl mx-auto px-4 py-32 space-y-16">
       <Header />
       <About />
       <Team />

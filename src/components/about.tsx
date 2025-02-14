@@ -1,7 +1,7 @@
 export default function About() {
     return (
       <section className="space-y-2">
-        <h2 className="text-xs tertiary-text">About</h2>
+        <h2 className="text-xs tertiary-text font-mono secondary-text">About</h2>
         <p className="text-md primary-text">
           We&apos;re designers who partner with ambitious operators to bring ideas to life. We work with smart, enthusiastic,
           and fast-moving people who have depth and vision. Our goal is to help the best founders launch, raise, and
