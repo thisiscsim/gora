@@ -16,9 +16,9 @@ interface PortfolioItem {
       team: ["Ricky Moezinia"],
     },
     {
-      title: "Stealth",
-      category: "GenAI",
-      team: ["Elliot Bensabat", "Niki Parmar"],
+      title: "Eyval",
+      category: "Speech & Language",
+      team: ["Elliot Bensabat", "Charles Krzentowski", "Ruben Bousbib"],
     },
   ]
   
